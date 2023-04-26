@@ -67,10 +67,14 @@ header p {
 	letter-spacing: 0.05em;
 }
 
+.logIn div {
+
+}
+
 .input-item {
 	background: #fff;
 	color: #333;
-	padding: 15px 0px 14px 9px;
+	padding: 15px 0px 14px 14px;
 	border-radius: 5px 0 0 5px;
 }
 
